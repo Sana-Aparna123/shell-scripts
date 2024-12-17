@@ -15,4 +15,3 @@ tar -czf "$backup_dir/backup_$timestamp.tar.gz" -C "$source_dir" .
 
 # Print success message
 echo "Backup completed successfully: $backup_dir/backup_$timestamp.tar.gz"
-
